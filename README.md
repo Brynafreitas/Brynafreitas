@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Java, HTML, CSS e JS.**
 
-- 📫 How to reach me **www.linkedin.com/in/brunadefreit4s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
