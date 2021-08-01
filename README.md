@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Bruna de Freitas</h1>
-<h3 align="center">Moro em São Paulo/Sp, sou apaixonada por tecnologia e pela forma que ela me humaniza onde todos acertamos erramos e evoluímos, atualmente estou concluindo o bootcamp Generation Brasil onde aprimorei minhas soft-skills e aprendi novas hard-skills, essas que compartilho aqui.</h3>
+<h3 align="center">Sou apaixonada pela forma que a tecnologia me humaniza e estou em constante processo de evolução com ela.</h3>
 
 - 🌱 I’m currently learning **Java, HTML, CSS e JS.**
 
