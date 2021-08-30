@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Bruna de Freitas</h1>
 <h3 align="center">Sou apaixonada pela forma que a tecnologia me humaniza e estou em constante processo de evolução com ela.</h3>
 
-- 🌱 Atualmente estou participando do bootcamp Generation Brasil me formando como uma desenvolvedora Java Fullstack Jr, gosto muito do back-end mas sou uma grande amante do front-end.
+- 🌱 Me formei recentemente como desenvolvedora web java junior através do bootcamp da Generation Brasil.
 
 
 <h3 align="left">Connect with me:</h3>
