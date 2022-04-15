@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Bruna de Freitas</h1>
 <h3 align="center">Sou apaixonada pela forma que a tecnologia me humaniza e estou em constante processo de evolução com ela.</h3>
 
-- 🌱 Me formei recentemente como desenvolvedora web java junior através do bootcamp da Generation Brasil.
+- 🌱 Me formei como desenvolvedora web java junior através do bootcamp da Generation Brasil.
 - Atualmente trabalho na brasilprev e sou analista de sistemas júnior, trabalho com java, primefaces, websphere e ferramentas azure.
 
 
